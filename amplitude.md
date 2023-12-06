@@ -5,4 +5,3 @@ Amplitude in digital audio refers to the loudness of a sound. A high amplitude m
 
 [Navigate back to the homepage](README.md)
 
-stock-vector-vector-scientific-illustration-of-the-amplitude-of-a-wave-isolated-on-a-white-background-the-2080264282.jpg
