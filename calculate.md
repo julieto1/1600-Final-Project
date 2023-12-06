@@ -1,5 +1,5 @@
 # **How to Calculate**
-![]()
+![](https://github.com/julieto1/1600-Final-Project/blob/3cffebf04e95ddd36dd7f3cc71884ee18754b97b/financial-4560047_640.jpg)
 
 The calculation to find how many amplitude levels can be recorded with the bit depth, is incredibly simple. 
 
