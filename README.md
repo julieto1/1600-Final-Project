@@ -10,4 +10,4 @@ Hello! My name is Julie To and I am an Information Technology student here at Mi
 
 [How to calculate?](calculate.md)
 
-[Examples](Hobbies.md)
+[Examples](example.md)
